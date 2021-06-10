@@ -1,5 +1,13 @@
 #Aqui vamos a hablar de variables y constantes.
 
+`package com.usauriorawr.usaurioRAWR_Leccion1VariablesYConstantes`
+
+~~~
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+~~~
+
+
 ~~~
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
