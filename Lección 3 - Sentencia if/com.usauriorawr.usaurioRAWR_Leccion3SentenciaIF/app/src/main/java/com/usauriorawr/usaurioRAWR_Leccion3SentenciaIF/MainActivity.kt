@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
 private fun sentenciaIF() {
     var myNumber = 20
-    /*
+/*:-------------------------------------------------------------------------------------------------
         Operadores condicionales
             > mayor que
             < menor que
@@ -28,7 +28,7 @@ private fun sentenciaIF() {
             && operador AND (multiplicacion)
             || operador OR (suma)
             ! operador NOT (negacion)
-     */
+-------------------------------------------------------------------------------------------------:*/
 
     // Sentencia IF
     if (myNumber < 20 && myNumber > 10) {
@@ -40,6 +40,6 @@ private fun sentenciaIF() {
     }
 }
 // :-----------------------------------------------------------------------------------------------:
-// <Fin> Aqui vamos a hablar de la sentenci IF.-----------------------------------------------------
+// <Fin> Aqui terminamos de hablar de la sentenci IF.-----------------------------------------------------
 // :-----------------------------------------------------------------------------------------------:
 
