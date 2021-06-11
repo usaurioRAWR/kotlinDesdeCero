@@ -1,4 +1,4 @@
-#Aqui vamos a hablar de tipos de datos (data types) principales.
+# Aqui vamos a hablar de tipos de datos (data types) principales.
 
 `package com.usauriorawr.usaurioRAWR_Leccion2TiposDeDatos`
 
@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 // <Inicio> String (Cadena)-------------------------------------------------------------------------
 
     // Este tipo de dato va a representar una cadena de texto.
-
+    
     val myString1 = "Hola myString"
 
 /*:-------------------------------------------------------------------------------------------------
@@ -102,11 +102,11 @@ son muy muy grandes, de tipo long
     // La diferencia de tipos siempre establecera que es de tipo Double.
     // Y para indicar que es de tipo Float se debe de hacer asi.
     val myFloat: Float = 1.5f
-
+    
     val myDouble2 = 1.6
     // Numero entero de tipo Int.↴
     val myDouble3 = 2
-
+    
     // La diferencias de tipo asignara el resultado de "myDouble4" como de tipo de tipo Double.
     // En la suma decimal hay una variable que con un valor entero "myDouble3", lo que
     // sucedera es que el sistema internamente lo convertira en un numero decimal 2 > 2.0
