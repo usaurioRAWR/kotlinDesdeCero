@@ -29,7 +29,7 @@ private fun tiposDeDatos() {
     val myString1 = "Hola myString"
 
 /*:-------------------------------------------------------------------------------------------------
-        -. Como podemos observar en nungun momento hemos indicado que la variable es de tipo String.
+        -. Como podemos observar en ningun momento hemos indicado que la variable es de tipo String.
 Sin embargo Kotlin es capaz de identificar el tipo de dato unicamente por como se representa,
 gracias a su caracteristica "La diferencia de tipos".
 
