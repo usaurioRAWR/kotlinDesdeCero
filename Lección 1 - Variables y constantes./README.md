@@ -30,14 +30,16 @@ private fun variablesYConstantes() {
     	var myFirstNumber = 1
     	println(myFirstVariable)
 ~~~
-
+![Run(1) - Lección_1](https://github.com/usaurioRAWR/kotlinDesdeCero/blob/97f115b228da9cd0cf1a78e3d163de57bf84d7f9/Lecci%C3%B3n%201%20-%20Variables%20y%20constantes./000%20-%20Imagenes/:*Run(1)*:%20Lecci%C3%B3n_1_-_Variables_y_constantes._(_usaurioRAWR!_)_app%20.png)
 
 >Una Variable puede cambiar su valor a lo largo de la ejecucion.
 
 ~~~
     	myFirstVariable = "Bienvenmidos a mi Variable"
     	println(myFirstVariable)
-    
+~~~
+![Run(2) - Lección_1](https://github.com/usaurioRAWR/kotlinDesdeCero/blob/97f115b228da9cd0cf1a78e3d163de57bf84d7f9/Lecci%C3%B3n%201%20-%20Variables%20y%20constantes./000%20-%20Imagenes/:*Run(2)*:%20Lecci%C3%B3n_1_-_Variables_y_constantes._(_usaurioRAWR!_)_app%20.png)
+~~~
     	//myFirstVariable = 1
 ~~~
 
@@ -64,6 +66,8 @@ private fun variablesYConstantes() {
 	println(mySecondVariable)
 ~~~
 
+![Run(3) - Lección_1](https://github.com/usaurioRAWR/kotlinDesdeCero/blob/97f115b228da9cd0cf1a78e3d163de57bf84d7f9/Lecci%C3%B3n%201%20-%20Variables%20y%20constantes./000%20-%20Imagenes/:*Run(3)*:%20Lecci%C3%B3n_1_-_Variables_y_constantes._(_usaurioRAWR!_)_app.png)
+
 > Podemos cambiar el valor de una bariable respecto al valor de orta.
 
 ~~~
@@ -71,11 +75,14 @@ private fun variablesYConstantes() {
 	println(mySecondVariable)
 ~~~
 
+![Run(4) - Lección_1](https://github.com/usaurioRAWR/kotlinDesdeCero/blob/97f115b228da9cd0cf1a78e3d163de57bf84d7f9/Lecci%C3%B3n%201%20-%20Variables%20y%20constantes./000%20-%20Imagenes/:*Run(4)*:%20Lecci%C3%B3n_1_-_Variables_y_constantes._(_usaurioRAWR!_)_app%20.png)
+
 ~~~
 	myFirstVariable = "¿Ya te has suscrito?"
 	println(myFirstVariable)
 ~~~
 
+![Run(5) - Lección_1](https://github.com/usaurioRAWR/kotlinDesdeCero/blob/97f115b228da9cd0cf1a78e3d163de57bf84d7f9/Lecci%C3%B3n%201%20-%20Variables%20y%20constantes./000%20-%20Imagenes/:*Run(5)*:%20Lecci%C3%B3n_1_-_Variables_y_constantes._(_usaurioRAWR!_)_app%20.png)
 
 > Constantes
 
@@ -83,6 +90,8 @@ private fun variablesYConstantes() {
 	val myFirstConstant = "¿Te ha gustado el tutorial?"
 	println(myFirstConstant)
 ~~~
+
+![Run(6) - Lección_1](https://github.com/usaurioRAWR/kotlinDesdeCero/blob/97f115b228da9cd0cf1a78e3d163de57bf84d7f9/Lecci%C3%B3n%201%20-%20Variables%20y%20constantes./000%20-%20Imagenes/:*Run(6)*:%20Lecci%C3%B3n_1_-_Variables_y_constantes._(_usaurioRAWR!_)_app%20.png)
 
 > ###Errores;
 > 
@@ -97,6 +106,8 @@ private fun variablesYConstantes() {
     	val mySecondConstant = myFirstVariable
     	println(mySecondConstant)
 ~~~
+
+![Run(7) - Lección_1](https://github.com/usaurioRAWR/kotlinDesdeCero/blob/97f115b228da9cd0cf1a78e3d163de57bf84d7f9/Lecci%C3%B3n%201%20-%20Variables%20y%20constantes./000%20-%20Imagenes/:*Run(7)*:%20Lecci%C3%B3n_1_-_Variables_y_constantes._(_usaurioRAWR!_)_app%20.png)
 
 > Una constante puede obtener el valor de una variable.
 
