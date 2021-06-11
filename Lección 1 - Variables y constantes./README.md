@@ -102,12 +102,12 @@ private fun variablesYConstantes() {
 >			-. trad. direc.> Val no se puede reasignar
 >  	 		* Una constante no puede modificar su valor
 
+> Una constante puede obtener el valor de una variable.
+
 ~~~
     	val mySecondConstant = myFirstVariable
     	println(mySecondConstant)
 ~~~
-
-> Una constante puede obtener el valor de una variable.
 
 ![Run(7) - Lección_1](https://github.com/usaurioRAWR/kotlinDesdeCero/blob/97f115b228da9cd0cf1a78e3d163de57bf84d7f9/Lecci%C3%B3n%201%20-%20Variables%20y%20constantes./000%20-%20Imagenes/:*Run(7)*:%20Lecci%C3%B3n_1_-_Variables_y_constantes._(_usaurioRAWR!_)_app%20.png)
 
