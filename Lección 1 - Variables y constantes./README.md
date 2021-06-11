@@ -41,17 +41,26 @@ private fun variablesYConstantes() {
     	//myFirstVariable = 1
 ~~~
 
+
 >  ### Errores;
 > 
-  		/~~~~~~~~~~~~~~~~~~~\
-  +.	|myFirstVariable = 1|
- 		 \~~~~~~~~~~~~~~~~~~~/
-        -. Error; The integer literal does not conform to the expected type String
-        -. trad. direc.> El literal entero no se ajusta al tipo esperado String.
-        -. trad> El numero entero no se ajusta al tipo (de variable) esperado String.
-        * No podemos asignar un tipo Int a una variable de tipo String
-              ** Da error debido a que la variable "myFirstVariable" es de tipo Texto(String)
-            y nosotros le estamos introduciondo un valor de tipo numero entero(Int).
+> 	/~~~~~~~~~~~~~~~~~~~\
+> 	
+>	|myFirstVariable = 1|
+>	
+>	\~~~~~~~~~~~~~~~~~~~/
+>		
+>        -. Error; The integer literal does not conform to the expected type String
+>        
+>        -. trad. direc.> El literal entero no se ajusta al tipo esperado String.
+>        
+>        -. trad> El numero entero no se ajusta al tipo (de variable) esperado String.
+>        
+>        * No podemos asignar un tipo Int a una variable de tipo String
+>        
+>        ** Da error debido a que la variable "myFirstVariable" es de tipo Texto(String)
+>        
+>        y nosotros le estamos introduciondo un valor de tipo numero entero(Int).
 
 > #####¿Cuando hemos definido que tipo de variable es?
             -. Definimos indirectamente el tipo de variable, al escribirla por primera vez.
