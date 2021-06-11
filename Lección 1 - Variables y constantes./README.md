@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
 `private fun variablesYConstantes() {`
 
-> Variables
+> ###Variables
 
 ~~~ 	
     	var myFirstVariable = "Hola mundo :3"
@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
     	//myFirstVariable = 1
 ~~~    
 
-> ###Errores;
+> #####Errores;
 > 
 	/~~~~~~~~~~~~~~~~~~~\
 	|myFirstVariable = 1|
@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
         ** Da error debido a que la variable "myFirstVariable" es de tipo Texto(String)
             y nosotros le estamos introduciondo un valor de tipo numero entero(Int).
 
-> ###¿Cuando hemos definido que tipo de variable es?
+> #####¿Cuando hemos definido que tipo de variable es?
             -. Definimos indirectamente el tipo de variable, al escribirla por primera vez.
             -. Kotlin asigna automaticamente el tipo de variable que es, respecto al tipo de
             informacion que le introduciendo por primera vez.
